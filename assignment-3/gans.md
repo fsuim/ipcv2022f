@@ -4,8 +4,8 @@ For this lab, we recommend that students watch the video and read the material i
 
 In this assignment, we will explore adversarial generative networks (GAN). The objective is to see in practice the concepts covered in the classroom. We provide two example notebooks; the first addresses the implementation of a GAN using Multilayer Perceptron, and the second shows the implementation of a GAN using convolutional neural networks. Check out the notebooks below.
 
-1. Implementing a GAN using Multilayer Perceptron, <a href="https://colab.research.google.com/github/visgraf/labipcv/blob/main/notebooks/BaseGAN.ipynb">click here</a>.
-2. Implementing a GAN using convolution networks, <a href="https://colab.research.google.com/github/visgraf/labipcv/blob/main/notebooks/ImprovedGAN.ipynb">click here</a>.
+1. Implementing a GAN using Multilayer Perceptron, <a href="https://colab.research.google.com/github/visgraf/labipcv/blob/main/notebooks/BaseGAN.ipynb" target="_blank">click here</a>.
+2. Implementing a GAN using convolution networks, <a href="https://colab.research.google.com/github/visgraf/labipcv/blob/main/notebooks/ImprovedGAN.ipynb" target="_blank">click here</a>.
 
 ## Suggestions:
 
