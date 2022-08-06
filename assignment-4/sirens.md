@@ -9,6 +9,10 @@ This assignment aims to show the use of a SIREN in practice. In previous assignm
 2. Run the cells; we recommend running them one by one to get familiar with the process.
 3. The authors in the paper call attention to the adjustment of $\omega_0$ initialization. Into the notebook are suggestions for specific sections of the paper; we recommend the students read these parts and try to adjust the $\omega_0$ value. Afterward, the students can compare their results with the provided example and show us.
 
+$$
+a + b = d
+$$
+
 ## **References**
 
 See the reference paper by <a href=" https://arxiv.org/abs/2006.09661" target="_blank">clicking here</a> .
