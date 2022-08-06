@@ -6,9 +6,9 @@ Let us work with a convolution neural network for image classification. Use the 
 
 ## Suggestions:
 
-1. Create a new notebook and then isolate the convolution network from the example
+1. Create a new notebook and then isolate the convolution network from the example.
 
-2. Run all cells and observe the behavior of the program
+2. Run all cells and observe the behavior of the program.
 
 3. Try to improve network accuracy. Feel free to try.
 
