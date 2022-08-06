@@ -11,5 +11,5 @@ This assignment aims to show the use of a SIREN in practice. In previous assignm
 
 ## **References**
 
-See the reference paper by <a href=" [https://arxiv.org/abs/2006.09661](https://arxiv.org/abs/2006.09661)" target="_blank">clicking here</a> .
+See the reference paper by <a href=" https://arxiv.org/abs/2006.09661" target="_blank">clicking here</a> .
 
